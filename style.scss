@@ -14,20 +14,13 @@
 /**************/
 
 html {
-  font-size: 100%;
+  font-size: 120%;
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background: $lightGray;
+  font: 18px/1.4 $lato;
   color: $darkGray;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
-  width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -146,17 +139,24 @@ img {
 /* LAYOUT / SECTIONS */
 /*********************/
 
+
 //
 // .masthead
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 20px;
+  background-color: $darkGray;
+  background-image: url('images/bbl-hero-1200.jpg');
+  background-size: cover;
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  display: block;
+  float: left;
+  padding: 300px 0;
+  width: 100%;
+  
 
   @include mobile {
     text-align: center;
@@ -192,17 +192,20 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
 }
+.site-name:hover {
+  color: red;
+}
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: $lightGray;
   font-size: 16px;
 
   @include mobile {

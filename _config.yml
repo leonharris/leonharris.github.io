@@ -6,10 +6,11 @@
 name: Leon Harris
 
 # Short bio or description (displayed in the header)
-description: Web Developer from London
+description: Web Developer and Designer, London
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/2707658?v=3&s=400
+# avatar: /images/bbl-logo.svg
 
 #
 # Flags below are optional
@@ -21,8 +22,8 @@ footer-links:
   email:
   facebook:
   flickr: leonharris
-  github: leonharris
-  instagram:
+  github:
+  instagram: mrleonharris
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
@@ -62,7 +63,7 @@ version: v1.1.0
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed # You might prefer to minify using :compressed/:expanded
+  style: :expanded # You might prefer to minify using :compressed/:expanded
 
 # Use the following plug-ins
 gems:
