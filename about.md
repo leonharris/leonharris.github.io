@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### About BuiltByLeon
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+BuiltByLeon is the online home of London-based web designer & developer Leon Harris. Working online for over a decade, Leon's skills include: HTML5, CSS3, PHP, JQuery, Responsive design & Wordpress.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mail@builtbyleon.com](mailto:mail@builtbyleon.com)
