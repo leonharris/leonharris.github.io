@@ -6,6 +6,6 @@ published: true
 
 ## First Post
 
-This is my first **Blog post**.
+This is my second **Blog post**.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
