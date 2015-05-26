@@ -8,6 +8,4 @@ published: true
 
 This is my first **Blog post**.
 
-
-
 ![_config.yml]({{ site.baseurl }}/images/config.png)
