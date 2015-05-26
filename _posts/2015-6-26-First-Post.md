@@ -1,10 +1,8 @@
 ---
 layout: post
-title: First Post
+title: Bellini Travel
 published: true
 ---
-
-## First Post
 
 This is my second **Blog post**.
 
