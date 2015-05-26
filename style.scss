@@ -147,15 +147,15 @@ img {
 .wrapper-masthead {
   margin-bottom: 20px;
   background-color: $darkGray;
-  background-image: url('images/bbl-hero-1200.jpg');
+  #background-image: url('images/bbl-hero-1200.jpg');
   background-size: cover;
-  background-positon: center center;
+  background-position: center center;
 }
 
 .masthead {
   display: block;
   float: left;
-  padding: 300px 0;
+  padding: 100px 0;
   width: 100%;
   
 
