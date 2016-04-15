@@ -12,5 +12,3 @@ BuiltByLeon is the online home of London-based web designer & developer Leon Har
 ### Contact me
 
 [mail@builtbyleon.com](mailto:mail@builtbyleon.com)
-
-![]({{site.baseurl}}//buy%20kingdom.png)
